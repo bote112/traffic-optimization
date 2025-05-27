@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-05-10 20:32:27.275873 by randomTrips.py v1_22_0+0002-63e50f52594
+<configuration>
+    <net-file value="E:/licenta/oras-mic/2025-05-08-13-35-40\osm.net.xml"/>
+    <output-trip-file value="E:/licenta/oras-mic/2025-05-08-13-35-40\trips.trips.xml"/>
+    <route-file value="E:/licenta/oras-mic/2025-05-08-13-35-40\generated_routes\routes_worker1_8379b3c3.rou.xml"/>
+    <prefix value="veh"/>
+    <trip-attributes value="departLane=&quot;best&quot; departSpeed=&quot;max&quot; departPos=&quot;random&quot;"/>
+    <fringe-factor value="1.6"/>
+    <seed value="81058"/>
+    <end value="600.0"/>
+    <period value="2.22"/>
+</configuration>
+-->
+
+<!-- generated on 2025-05-10 20:32:27 by Eclipse SUMO duarouter Version 1.22.0
+<duarouterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="E:/licenta/oras-mic/2025-05-08-13-35-40\osm.net.xml"/>
+        <route-files value="E:/licenta/oras-mic/2025-05-08-13-35-40\trips.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="E:/licenta/oras-mic/2025-05-08-13-35-40\generated_routes\routes_worker1_8379b3c3.rou.xml"/>
+        <alternatives-output value="NUL"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="600.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</duarouterConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"/>

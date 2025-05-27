@@ -1,0 +1,5 @@
+<additional>
+    <vType id="car" accel="2.6" decel="4.5" length="5.0" maxSpeed="50" />
+    <vType id="bus" accel="1.3" decel="4.0" length="12.0" maxSpeed="40" guiShape="bus" />
+    <vType id="truck" accel="1.0" decel="3.0" length="10.0" maxSpeed="30" guiShape="truck" />
+</additional>
