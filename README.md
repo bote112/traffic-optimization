@@ -25,3 +25,5 @@ In repo este adaugat doar orasul mic, care este mai mult o comuna preluata din R
 Acestea 2 sunt mult mai complexe, cu treceri de pietoni, transport in comun, sensuri giratorii, multiple benzi de circulatie.
 
 Agentul a fost testat o data si pe orasul mediu, in ideea ca poate algoritmul functioneaza mai bine pe scenarii complexe, dar tot nu s-a descurcat.
+
+Inca sunt niste junk-files in folder, am incercat sa fac antrenarea mai rapida prin paralelizare, mai exact sa fac cate un episod sa ruleze pe fiecare core de la procesor, dar nu a functionat.
