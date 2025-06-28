@@ -1,0 +1,12 @@
+<additional>
+    <vTypeDistribution id="randomDist">
+    <vType id="passenger" vClass="passenger" probability="0.7"/>
+    <vType id="emergency" vClass="emergency" probability="0.05"/>
+    <vType id="delivery" vClass="delivery" probability="0.10"/>
+    <vType id="motorcycle" vClass="motorcycle" probability="0.10"/>
+    <vType id="bicycle" vClass="bicycle" probability="0.05"/>
+    </vTypeDistribution>
+
+    <vType id="pedestrian" vClass="pedestrian"/>
+
+</additional>
